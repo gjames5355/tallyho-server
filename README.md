@@ -7,7 +7,7 @@
 
 Tallyho is a visual schedule application where Users can sign up for an account and make a visual schedule to cater to their child's day routine. This minimizes the labor of making a visual schedule or PECS (Picture Exchange Communication System) to use an easy accessible online application.  The User can create multiple tasks to build their schedule as well check off individual tasks when tasks are completed. The User can delete a task of their choosing.  The User can edit and save multiple tasks on the same page. 
 
->Live demo: https://tallyho-client.gjames5355.vercel.app
+>Live demo: https://sophie-tally-ho-app.now.sh
 
 >Server Repo: https://github.com/gjames5355/tallyho-server
 
